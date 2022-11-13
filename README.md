@@ -1,5 +1,7 @@
 # function_approximation_using_neural_networks
 
+https://raw.githubusercontent.com/12345pnp/comp-play/gh-pages/assets/videos/neural_1d_approx/L30.mov
+
 To install jupyterlab for viewing the notebooks:
 
 ```
